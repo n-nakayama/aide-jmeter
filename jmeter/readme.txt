@@ -1,3 +1,9 @@
+2015/2/6 a.ide
+
+プロキシのURLとポート番号、IDとパスワードは管理者へ確認。
+
+
+
 2014/10/21 a.ide
 
 jmeter
@@ -16,7 +22,7 @@ proxy経由での実行
 
 ・jmeter.bat(jmeterAide.bat)の実行時に以下オプションを指定する。
 
-  jmeterAide.bat -H rep.proxy.nic.fujitsu.com -P 8080 -u wlmkensa00 -a 0987654321
+  jmeterAide.bat -H PROXY_SERVER -P PROXY_PORT -u USERID -a PASSWORD
 
 
 
